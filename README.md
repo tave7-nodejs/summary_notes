@@ -53,5 +53,5 @@ merge할 때 각자의 코드를 잘 확인해야 한다. (IDE를 통해 코드�
 각자 코드를 수정해도 충돌이 나지 않고, 최종 완성된 코드만 푸시해서 main repository를 관리할 수 있게
 개발자마다 각자의 브랜치를 따로 만들어서 사용한다. 
 
-기본적으로 repository를 만들면 main이라는 repository에서 모든 관리가 이루어지므로,
+기본적으로 repository를 만들면 main이라는 branch에서 모든 관리가 이루어지므로,
 따로 branch를 만들어서 작업하면 된다. 
